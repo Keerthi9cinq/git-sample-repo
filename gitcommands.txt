@@ -11,8 +11,5 @@ $ cd /file/path/to/code
 $ git init
 In Practice:
 
-# change directory to codebase
-$ cd /Users/computer-name/Documents/website
 
-# make directory a git repository
 
