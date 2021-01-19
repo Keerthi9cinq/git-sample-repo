@@ -6,3 +6,5 @@ git state3
 
 git newcommand added
 
+git difference check
+
